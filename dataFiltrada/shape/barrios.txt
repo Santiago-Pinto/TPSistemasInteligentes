@@ -1,0 +1,8 @@
+Nombre: Barrios
+ Descripcion: <p>L&iacute;mites y ubicaci&oacute;n geogr&aacute;fica de los barrios de la Ciudad.</p>
+
+ Notas: 
+ Categorias:  Urbanismo y Territorio Administración Pública y Normativa
+ Etiquetas:  división-territorial infraestructura USIG
+ Publicacion: Fri Oct 28 2016 16:44:15 GMT-0300 (ART)
+ Ultima modificacion: Tue Mar 07 2017 12:14:08 GMT-0300 (ART)
